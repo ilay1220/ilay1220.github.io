@@ -1,0 +1,29 @@
+    btn1.onclick = function(){
+        situation.innerHTML = ""
+        btn1.innerHTML = ""
+        btn2.innerHTML = ""
+        btn3.innerHTML = ""
+        btn4.style.display = "";
+
+    }
+    btn2.onclick = function(){
+        situation.innerHTML = ""
+        btn1.innerHTML = ""
+        btn2.innerHTML = ""
+        btn3.innerHTML = ""
+        btn4.innerHTML = ""
+    }
+    btn3.onclick = function(){
+        situation.innerHTML = ""
+        btn1.innerHTML = ""
+        btn2.innerHTML = ""
+        btn3.innerHTML = ""
+        btn4.innerHTML = ""  
+    }
+    btn4.onclick = function(){
+        situation.innerHTML = ""
+        btn1.innerHTML = ""
+        btn2.innerHTML = ""
+        btn3.innerHTML = ""
+        btn4.innerHTML = "" 
+    }
